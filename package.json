@@ -1,0 +1,10 @@
+{
+  "name": "danmu-range",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "弹幕靶场 —— B站 Toy 平台作品原型：把「弹幕」这个双关做成玩法本体",
+  "scripts": {
+    "serve": "python3 -m http.server 8099"
+  }
+}
